@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itu-Jose
-- 👀 I’m interested in ML, AI, Dev, Cybersecurity, the Internet
+- 👀 I’m interested in Data Science, AI, Dev, Cybersecurity, the Internet
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on errr...
 - 📫 How to reach me ...
